@@ -6,7 +6,7 @@ public class typecasting {
 
 
         System.out.println("tycasting");
-
+        
         int num = 25;
         System.out.println((float)(num));
 
